@@ -1,7 +1,7 @@
 {
   "name": "stoplight-cli",
   "description": "Command line utilities for Stoplight.io.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/marbemac/stoplight-cli",
   "author": {
     "name": "Marc MacLeod",
