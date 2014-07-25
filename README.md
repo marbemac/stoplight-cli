@@ -29,7 +29,7 @@ Once you have the CLI tool installed, change into your app's directory on your l
     cd /path/to/my/app
     stoplight login
     
-It will ask you for your authToken. You can find this token by signing in at https://dash.stoplight.com, clicking on your username in the top right, and copying the authToken presented on the screen.
+It will ask you for your authToken. You can find this token by signing in at https://dash.stoplight.com, clicking on settings in the sidebar, and copying the authToken presented on the screen.
 
 After logging in it will ask you which StopLight app you would like to associate with your current directory. If you have not created an app yet, please head over to https://dash.stoplight.com, sign in, and create one. Then run the following:
 
