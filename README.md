@@ -2,6 +2,7 @@
 
 Command line utilities for Stoplight.io.
 
+This tool makes it easy to run endpoint requests and tests on your local machine, from the StopLight online dashboard.
 
 ## Setup
 
